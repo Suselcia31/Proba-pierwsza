@@ -1,2 +1,5 @@
 # Proba-pierwsza
-Moje pierwsze repozytorium na GitHub
+
+My first repository on GitHub
+
+I like :coffe:, :Bieszczady mountains:, :Sowie mountains:, :small garden (plot):.
